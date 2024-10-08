@@ -1,8 +1,17 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project showcases my frontend development skills, where I used Tailwind CSS and React to design a modern, responsive website. The focus is on creating clean and efficient user interfaces, leveraging Vite for fast development with hot module replacement (HMR) and some custom ESLint rules.
 
-Currently, two official plugins are available:
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React (with Vite)
+Tailwind CSS
+ESLint for code quality
+
+## Features
+Responsive and modern design
+Fast Refresh using Vite
+Tailwind CSS for utility-first styling
+
+## Live Demo:
+[Click here to view the live demo](https://restaura-ten.vercel.app/)
